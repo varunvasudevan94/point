@@ -1,0 +1,30 @@
+ [
+      {
+        coordinate: {
+          latitude: 25,
+          longitude: 79,
+        },
+        key:"1"
+      },
+      {
+        coordinate: {
+          latitude: 30.524698,
+          longitude: 78.6655507,
+        },
+        key:"2"
+      },
+      {
+        coordinate: {
+          latitude: 30.5230786,
+          longitude: 78.634,
+        },
+        key:"3"
+      },
+      {
+        coordinate: {
+          latitude: 12,
+          longitude: 78,
+        },
+        key:"4"
+      },
+    ]
